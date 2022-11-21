@@ -90,7 +90,7 @@ const Experience = () => {
             <div className="experience__content">
               <article className="experience__details">
                 <AiFillCheckCircle className="experience__details-icon"/>
-                <div><h4>Laravel</h4>
+                <div><h4>Laravel</h4> 
               </div>
               </article>
           
@@ -100,6 +100,11 @@ const Experience = () => {
               </div>
               </article>
 
+              <article className="experience__details">
+                <AiFillCheckCircle className="experience__details-icon"/>
+                <div><h4>Power BI</h4>
+              </div>
+              </article>
             </div>
         </div>
       </div>

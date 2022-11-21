@@ -28,7 +28,7 @@ const About = () => {
               <article className='about__card'>
               <FiTarget className="about__icon"/>
 
-                <h5>Stress</h5>
+                <h5>Stress Managment</h5>
               <small>Able to make decision in stressful situation</small>
               </article>
 
