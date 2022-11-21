@@ -36,7 +36,7 @@ const Contact = () => {
 
           <article className='contact__option'>
             <BsMessenger className='contact__option-icon'/>
-            <h4>Messanger</h4>
+            <h4>Messenger</h4>
             <h5>Abderrahim Troudi</h5>
             <a href="https://m.me/profile.php?id=100006147826386">Send a message</a>
           </article>
@@ -44,7 +44,7 @@ const Contact = () => {
 
           <article className='contact__option'>
             <BsWhatsapp className='contact__option-icon'/>
-            <h4>Whatssap</h4>
+            <h4>WhatsApp</h4>
             <h5>28473413</h5>
             <a href="https://api.whatsapp.com/send?phone=21628473413">Send a message</a>
           </article>

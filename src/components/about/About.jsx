@@ -41,7 +41,7 @@ const About = () => {
               </article>
               
             </div>
-            <p><span className="firstWord">Hi</span>, i am <span class="MyName">Abderrahim Troudi</span> currently studying business intelligence 
+            <p><span className="firstWord">Hi</span>, I am <span class="MyName">Abderrahim Troudi</span> currently studying business intelligence 
               in "Faculté des Sciences Economiques et de Gestion de Nabeul-Tunisia" </p>
 
                <a href="#contact" className='btn btn-primary'>let's Talk</a>
