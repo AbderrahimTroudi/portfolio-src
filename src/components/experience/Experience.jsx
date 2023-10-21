@@ -23,6 +23,12 @@ const Experience = () => {
              
             </div>
             </article>
+            <article className="experience__details">
+              <AiFillCheckCircle className="experience__details-icon"/>
+              <div><h4>Angular</h4>
+             
+            </div>
+            </article>
 
             
           </div>
@@ -31,20 +37,7 @@ const Experience = () => {
         <div className="experience__backend">
         <h3>Backend development</h3>
           <div className="experience__content">
-            <article className="experience__details">
-              <AiFillCheckCircle className="experience__details-icon"/>
-              <div><h4>kotlin</h4>
-             
-            </div>
-            </article>
-           
-
-            <article className="experience__details">
-              <AiFillCheckCircle className="experience__details-icon"/>
-              <div><h4>C</h4>
-             
-            </div>
-            </article>
+            
 
             <article className="experience__details">
               <AiFillCheckCircle className="experience__details-icon"/>
@@ -73,7 +66,7 @@ const Experience = () => {
             <div className="experience__content">
               <article className="experience__details">
                 <AiFillCheckCircle className="experience__details-icon"/>
-                <div><h4>MySQL</h4>
+                <div><h4>MongoDB</h4>
               </div>
               </article>
           
@@ -82,6 +75,11 @@ const Experience = () => {
                 <div><h4>PL/SQL</h4>
               </div>
               </article>
+              <article className="experience__details">
+              <AiFillCheckCircle className="experience__details-icon"/>
+              <div><h4>Firebase</h4>
+            </div>
+            </article>
 
             </div>
         </div>

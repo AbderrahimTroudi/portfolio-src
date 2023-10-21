@@ -20,29 +20,30 @@ const About = () => {
             <div className='about__cards'>
               <article className='about__card'>
                 <SiFuturelearn className="about__icon"/>
-                <h5>Experince</h5>
-              <small>Fast learning </small>
+                <h5>Motivated and a fast learner</h5>
+             
               </article>
 
 
               <article className='about__card'>
               <FiTarget className="about__icon"/>
 
-                <h5>Stress Managment</h5>
-              <small>Able to make decision in stressful situation</small>
+                <h5>Able to make decision in stressful situation</h5>
+              
               </article>
 
 
               <article className='about__card'>
               <RiTeamFill className="about__icon"/>
 
-                <h5>Team</h5>
-              <small>Collaborative in groups</small>
+                <h5>Collaborative in groups</h5>
+             
               </article>
               
             </div>
-            <p><span className="firstWord">Hi</span>, I am <span class="MyName">Abderrahim Troudi</span> currently studying business intelligence 
-              in "Faculté des Sciences Economiques et de Gestion de Nabeul-Tunisia" </p>
+            <p><span className="firstWord">Hi</span>, I am <span class="MyName">Abderrahim Troudi</span> ,
+             I am graduated with a computer science degree from 
+              "Faculté des Sciences Economiques et de Gestion de Nabeul-Tunisia" </p>
 
                <a href="#contact" className='btn btn-primary'>let's Talk</a>
           </div>

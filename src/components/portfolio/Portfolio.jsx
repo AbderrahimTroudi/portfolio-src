@@ -4,6 +4,8 @@ import IMG1 from '../../assest/javacapt.PNG'
 import IMG2 from '../../assest/portfolio1.jpg'
 import IMG3 from '../../assest/taxi.jpg'
 import IMG4 from '../../assest/portcap.PNG'
+import IMG5 from '../../assest/portfolio2.jpg'
+import IMG6 from '../../assest/portfolio5.png'
 
 const data = [
   {
@@ -29,16 +31,15 @@ const data = [
   },
   {
     id:3,
-    image:IMG3,
+    image:IMG6,
     title:'Kids toys trade(Mobile application)',
-    github:""
+    github:"#"
   },
   {
-    id:4,
-    image:IMG3,
-    title:'Kids toys trade(Mobile application)',
-    github_Frontend:'https://github.com/AbderrahimTroudi/InternManager',
-    github_Backend:'https://github.com/AbderrahimTroudi/Crud'
+    id:5,
+    image:IMG5,
+    title:'Intern management ',
+    github:'https://github.com/AbderrahimTroudi/InternManager',
 
   }
   
@@ -60,6 +61,7 @@ const Portfolio = () => {
           <h5>{sousTitre}</h5>
           <div className="port__item-cta">
           <a href={github} target="__blank" className="btn">GitHub</a>
+          
           </div>
         </article>)})
 }
