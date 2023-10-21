@@ -24,15 +24,22 @@ const data = [
     id:2,
     image:IMG2,
     title:'Power BI Dashboard',
-    sousTitre:'Currently working  on ',
-    github:'https://github.com'
+    
+   
   },
   {
     id:3,
     image:IMG3,
-    title:'Taxi reservation(Mobile application)',
-    sousTitre:'Currently working  on ',
-    github:'https://github.com'
+    title:'Kids toys trade(Mobile application)',
+    
+  },
+  {
+    id:4,
+    image:IMG3,
+    title:'Kids toys trade(Mobile application)',
+    github_Frontend:'https://github.com/AbderrahimTroudi/InternManager',
+    github_Backend:'https://github.com/AbderrahimTroudi/Crud'
+
   }
   
 ]
